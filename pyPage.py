@@ -1,5 +1,4 @@
 import urllib
-import sys
 
 def get_pagerank(url):
     hsh = check_hash(hash_url(url)) 
